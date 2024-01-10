@@ -5,7 +5,10 @@ hero:
   text: Musings by Greg Marine
   tagline: Behind the curtain of a curious mind.
   actions:
-    - theme: brand
+    - them: brand
+      text: Storms, Tacos, and Gratefulness
+      link: /2024/01/09_ storms-tacos-and-gratefulness
+    - theme: alt
       text: Best Burger Ever
       link: /2024/01/08_best_burger_ever
     - theme: alt
