@@ -6,6 +6,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: A Day of a Different Color
+      link: /2024/01/11_a-day-of-a-different-color
+    - theme: alt
       text: Weird, Normal, and My Best
       link: /2024/01/10_weird-normal-and-my-best
     - theme: alt
