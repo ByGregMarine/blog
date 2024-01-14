@@ -6,6 +6,9 @@ hero:
   tagline: Behind the curtain of a curious mind.
   actions:
     - theme: brand
+      text: Copyrights, Prayer, and 10K
+      link: /2024/01/13_copyrights-prayer-and-a-10k
+    - theme: alt
       text: Breaking Fast
       link: /2024/01/12_breaking-fast
     - theme: alt
@@ -19,7 +22,7 @@ hero:
       link: /2024/01/09_storms-tacos-and-gratefulness
     - theme: alt
       text: Best Burger Ever
-      link: /2024/01/08_best_burger_ever
+      link: /2024/01/08_best-burger-ever
     - theme: alt
       text: Healthier Than Last Year
       link: /2024/01/07_healthier-than-last-year
